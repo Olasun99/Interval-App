@@ -1,0 +1,6 @@
+{
+  "name": "Interval Alarm",
+  "description": "A repeating alarm timer for setting continuous intervals like 1 minute or 3 hours.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
